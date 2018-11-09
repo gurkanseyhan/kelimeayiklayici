@@ -33,4 +33,4 @@ def clear_repeat(punc_clear_list):
     print ("Farklı Kelime Sayısı : " + str(len(a)))
 
 
-get_key_piece("musa.docx")
+get_key_piece("ornekmetin.docx")
